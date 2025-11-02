@@ -1,6 +1,4 @@
-# Folktale-AI-Storytelling-System
-
-# 한국 전래동화 AI 스토리텔링 시스템
+# Folktale-AI-Storytelling-System (한국 전래동화 AI 스토리텔링 시스템)
 
 ## 프로젝트 개요
 
